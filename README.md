@@ -1,4 +1,4 @@
-This Repository Contains 4 different projects performed in the microprocessor and Embedded systems graduate-level Course at the University of Texas at Dallas.
+This Repository Contains 3 different projects performed in the microprocessor and Embedded systems graduate-level Course at the University of Texas at Dallas.
 
 The "accelerometer" folder contains two files. "accelerometer.ino" file contains the code that repeatedly reads 3D coordinates from a sensor, displays them on a screen, and sends them to a serial port. The "3d_plot.m" contains code for the device projection in the 3D plot in Matlab.
 
